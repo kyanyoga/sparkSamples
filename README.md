@@ -6,4 +6,6 @@ As I find new and interesting ways of dealing with common problems, I will add t
 here for those that are intersted.  FYI, I usually start solving big problems by building
 smaller solutions. You typically won't see a big solution on here for NDA reasons. However,
 There should be enough information to glean ideas, how to's, relevancy, optimize, etc.
+## Spark2 Dev Framework
+Check out the SBT Dev Framework if you need a place to start with a new scala-spark2 project.
 ## Have fun!
